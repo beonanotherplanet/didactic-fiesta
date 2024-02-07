@@ -1,0 +1,7 @@
+{
+  "name": "cross-platform-storybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:seungha-0709/probable-octo-computing-machine.git",
+  "license": "MIT"
+}
